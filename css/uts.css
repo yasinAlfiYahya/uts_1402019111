@@ -1,0 +1,50 @@
+button.btn.btn-primary {
+  height: 38px;
+}
+textarea {
+  overflow: auto;
+  resize: vertical;
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+form {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+a {
+  padding: 4px;
+}
+.row.text-center {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.col-md-10.col-lg-10 {
+  margin-bottom: 50px;
+}
+.yutub {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 30px;
+}
+.nav {
+  margin-top: 30px;
+}
+
+li.breadcrumb-item.active {
+  margin-top: 2px;
+}
